@@ -17,7 +17,8 @@
             //VendingMachine.Notes();
             //DayOfWeek.FindDay();
             //TemperatureConversion.Temperature();
-            MonthlyPayment.Payment();
+            //MonthlyPayment.Payment();
+            SquareRoot.Roots();
         }
     }
 }
