@@ -16,7 +16,8 @@
             //StopWatch.watch();
             //VendingMachine.Notes();
             //DayOfWeek.FindDay();
-            TemperatureConversion.Temperature();
+            //TemperatureConversion.Temperature();
+            MonthlyPayment.Payment();
         }
     }
 }
