@@ -15,7 +15,8 @@
             //CouponNumber.Coupon(N);
             //StopWatch.watch();
             //VendingMachine.Notes();
-            DayOfWeek.FindDay();
+            //DayOfWeek.FindDay();
+            TemperatureConversion.Temperature();
         }
     }
 }
