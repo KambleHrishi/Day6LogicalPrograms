@@ -5,7 +5,8 @@
         public static void Main(string[]args)
         {
             //Console.WriteLine("Welcome To Day 6 Logical Programs");
-            Fibonacci.PrintingFibonacci();
+            //Fibonacci.PrintingFibonacci();
+            PerfectNumber.ThePerfectNumber();
         }
     }
 }
