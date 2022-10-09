@@ -13,8 +13,8 @@
             //CouponNumber c = new CouponNumber();
             //int N = Convert.ToInt32(Console.ReadLine());
             //CouponNumber.Coupon(N);
-            StopWatch.watch();
-
+            //StopWatch.watch();
+            VendingMachine.Notes();
         }
     }
 }
