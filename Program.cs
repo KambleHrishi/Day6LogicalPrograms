@@ -14,7 +14,8 @@
             //int N = Convert.ToInt32(Console.ReadLine());
             //CouponNumber.Coupon(N);
             //StopWatch.watch();
-            VendingMachine.Notes();
+            //VendingMachine.Notes();
+            DayOfWeek.FindDay();
         }
     }
 }
