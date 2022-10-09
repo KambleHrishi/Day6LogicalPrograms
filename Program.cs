@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome To Day 6 Logical Programs");
             //Fibonacci.PrintingFibonacci();
-            PerfectNumber.ThePerfectNumber();
+            //PerfectNumber.ThePerfectNumber();
+            PrimeNumber.FindThePrimeNumber();
         }
     }
 }
